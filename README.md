@@ -1,1 +1,10 @@
-# LLama2HealthCareChatBot![healthcareBotImage](https://github.com/InsightEdge01/LLama2HealthCareChatBot/assets/131486782/0f610cc4-8fda-456e-b4ce-4a871fe93936)
+Healthcare Chatbot
+
+
+Welcome to the Healthcare Chatbot project! This AI-powered chatbot assists users with healthcare inquiries by providing symptom analysis, disease information, recommendations, and general health advice.
+
+
+Features
+Symptom Checker: Identify potential conditions based on user-reported symptoms.
+Disease Information: Access detailed information on various diseases.
+Health Recommendations: Receive tailored health advice and recommendations.
