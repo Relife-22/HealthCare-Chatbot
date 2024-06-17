@@ -13,6 +13,13 @@ The aim of the HealthCare Bot project is to provide users with:
 - Access to accurate and reliable healthcare information, enhancing user awareness and understanding of various health conditions.
 - A user-friendly interface that facilitates easy interaction, ensuring that users can quickly obtain the information they need to manage their health effectively.
 
+## Installations
+- pip install -r requirements.txt 
+- pip install -U langchain-community 
+- pip install pypdf 
+- pip install ctransformers
+- streamlit run app.py
+
 ## Usage
 - **Chat Interface**: Interact with the bot through the user-friendly chat interface.
 
